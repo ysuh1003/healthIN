@@ -1,3 +1,6 @@
+#### making CV prediction model focusing on life style modification 
+#### baseline characteritics 
+
 getwd()
 ### imac setwd 
 setwd("~/Desktop/healthIN/healthIN_predictionmodel")
