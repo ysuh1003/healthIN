@@ -6,6 +6,7 @@ getwd()
 setwd("~/Desktop/healthIN/healthIN_predictionmodel")
 ### macbook setwd 
 setwd("/Users/ysuh13/Desktop/healthIN/healthIN_predictionmodel/healthIN_CVmac13")
+
 ls()
 rm(list=ls(pattern=""))
 
